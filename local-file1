@@ -1,0 +1,12 @@
+TP travail collaboratif :
+-Créer un dossier local.
+-Initialiser votre dossier local.
+-pull du repository (donné par le formateur).
+-Créer une branche avec comme nom : (prénom du stagiaire).
+-Basculer sur la branche.
+-Créer des fichiers en local.
+-Commit les fichiers en local.
+-Push du contenu de sa branche (prénom du stagiaire).
+-Editer (du contenu dans le ou les fichiers) un ou plusieurs fichiers en local (branche stagiaire).
+-Pull de sa branche (prénom du stagiaire).
+-Push des modifications vers le repository github (branche prénom du stagiaire).
